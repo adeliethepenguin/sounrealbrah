@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/Blueprints/Player/BP_FPCharacter.uasset",
-				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/Blueprints/Player/InputActions/Jump.uasset",
 				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/level1_HLOD0_Instancing.uasset",
 				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/__ExternalActors__/level1/E/1C/1JOXLI3QZ0KUDVPKL4B6BG.uasset",
 				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/__ExternalObjects__/level1/F/22/JL6PFDIHNA1XSTJJHAEN28.uasset",
@@ -90,11 +89,20 @@
 				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/level1.umap",
 				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/Framework/BP_GameMode.uasset",
 				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/Blueprints/Player/IMC_Default.uasset",
-				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/Blueprints/Player/InputActions/Move.uasset",
-				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/Blueprints/Player/InputActions/Look.uasset",
 				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/Blueprints/Player/InputActions/IA_Move.uasset",
 				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/Blueprints/Player/InputActions/IA_Jump.uasset",
-				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/Blueprints/Player/InputActions/IA_Look.uasset"
+				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/Blueprints/Player/InputActions/IA_Look.uasset",
+				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset",
+				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/Materials/material.uasset",
+				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/Materials/Blurple.uasset",
+				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/Blueprints/Enemy/Turretman.uasset",
+				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/29/02XFPM2UP8IKDL7ILAZPKV.uasset",
+				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/Blueprints/Player/InputActions/Jump.uasset",
+				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/Blueprints/Player/InputActions/Move.uasset",
+				"C:/Users/100791638/Documents/GitHub/sounrealbrah/MoreFunWithBallz/Content/Blueprints/Player/InputActions/Look.uasset"
 			]
 		}
 	]
