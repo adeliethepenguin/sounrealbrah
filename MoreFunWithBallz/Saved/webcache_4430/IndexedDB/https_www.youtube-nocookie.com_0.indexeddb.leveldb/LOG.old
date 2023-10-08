@@ -1,0 +1,6 @@
+2023/10/07-18:47:15.328 5068 Creating DB D:/(more) Projects/sounrealbrah/MoreFunWithBallz/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/10/07-18:47:15.525 5068 Reusing MANIFEST D:/(more) Projects/sounrealbrah/MoreFunWithBallz/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/07-18:47:19.087 4f44 Level-0 table #5: started
+2023/10/07-18:47:19.166 4f44 Level-0 table #5: 1167 bytes OK
+2023/10/07-18:47:19.224 4f44 Delete type=0 #3
+2023/10/07-18:47:19.224 4f44 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
