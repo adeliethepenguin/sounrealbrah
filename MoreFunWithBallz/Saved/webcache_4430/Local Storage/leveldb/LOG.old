@@ -1,2 +1,12 @@
-2023/10/07-17:47:36.355 11f8 Creating DB D:/(more) Projects/sounrealbrah/MoreFunWithBallz/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/10/07-17:47:36.608 11f8 Reusing MANIFEST D:/(more) Projects/sounrealbrah/MoreFunWithBallz/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/10/27-01:53:22.490 19fc Reusing MANIFEST D:/(more) Projects/sounrealbrah/MoreFunWithBallz/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/10/27-01:53:22.590 19fc Recovering log #3
+2023/10/27-01:53:22.600 19fc Reusing old log D:/(more) Projects/sounrealbrah/MoreFunWithBallz/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/10/27-01:54:56.127 19fc Level-0 table #5: started
+2023/10/27-01:54:56.251 19fc Level-0 table #5: 15642 bytes OK
+2023/10/27-01:54:56.304 19fc Delete type=0 #3
+2023/10/27-02:05:31.063 19fc Level-0 table #7: started
+2023/10/27-02:05:31.124 19fc Level-0 table #7: 15878 bytes OK
+2023/10/27-02:05:31.361 19fc Delete type=0 #4
+2023/10/27-02:05:43.618 4220 Level-0 table #9: started
+2023/10/27-02:05:43.667 4220 Level-0 table #9: 16129 bytes OK
+2023/10/27-02:05:43.735 4220 Delete type=0 #6

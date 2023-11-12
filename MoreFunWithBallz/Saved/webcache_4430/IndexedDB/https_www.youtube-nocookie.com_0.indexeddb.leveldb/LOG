@@ -1,3 +1,15 @@
-2023/10/07-18:47:22.278 5068 Reusing MANIFEST D:/(more) Projects/sounrealbrah/MoreFunWithBallz/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/10/07-18:47:22.278 5068 Recovering log #4
-2023/10/07-18:47:22.278 5068 Reusing old log D:/(more) Projects/sounrealbrah/MoreFunWithBallz/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2023/10/28-18:07:14.375 3d14 Reusing MANIFEST D:/(more) Projects/sounrealbrah/MoreFunWithBallz/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/28-18:07:14.451 3d14 Recovering log #10
+2023/10/28-18:07:14.451 3d14 Reusing old log D:/(more) Projects/sounrealbrah/MoreFunWithBallz/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000010.log 
+2023/10/28-18:24:29.526 543c Level-0 table #14: started
+2023/10/28-18:24:29.574 543c Level-0 table #14: 190 bytes OK
+2023/10/28-18:24:29.613 543c Delete type=0 #10
+2023/10/28-18:24:29.626 543c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/10/28-18:24:29.634 543c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 58 : 1
+2023/10/28-18:24:29.634 543c Compacting 1@1 + 1@2 files
+2023/10/28-18:24:29.691 543c Generated table #15@1: 18 keys, 534 bytes
+2023/10/28-18:24:29.691 543c Compacted 1@1 + 1@2 files => 534 bytes
+2023/10/28-18:24:29.729 543c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/28-18:24:29.729 543c Delete type=2 #5
+2023/10/28-18:24:29.729 543c Delete type=2 #14
+2023/10/28-18:24:29.729 543c Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 58 : 1 .. (end); will stop at (end)
