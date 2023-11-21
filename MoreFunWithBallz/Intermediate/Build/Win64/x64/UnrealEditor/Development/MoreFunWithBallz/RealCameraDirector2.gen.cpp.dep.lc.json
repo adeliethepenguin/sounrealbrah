@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\(more) projects\\sounrealbrah\\morefunwithballz\\intermediate\\build\\win64\\unrealeditor\\inc\\morefunwithballz\\uht\\realcameradirector2.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\(more) projects\\sounrealbrah\\morefunwithballz\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\(more) projects\\sounrealbrah\\morefunwithballz\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\morefunwithballz\\definitions.morefunwithballz.h",
+            "d:\\(more) projects\\sounrealbrah\\morefunwithballz\\source\\morefunwithballz\\public\\realcameradirector2.h",
+            "d:\\(more) projects\\sounrealbrah\\morefunwithballz\\intermediate\\build\\win64\\unrealeditor\\inc\\morefunwithballz\\uht\\realcameradirector2.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

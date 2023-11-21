@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MoreFunWithBallz.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\(more) Projects\sounrealbrah\MoreFunWithBallz\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\(more) Projects\sounrealbrah\MoreFunWithBallz\Intermediate\Build\Win64\x64\UnrealEditor\Development\MoreFunWithBallz\CameraDirector.gen.cpp.obj"
+"D:\(more) Projects\sounrealbrah\MoreFunWithBallz\Intermediate\Build\Win64\x64\UnrealEditor\Development\MoreFunWithBallz\MoreFunWithBallz.init.gen.cpp.obj"
+"D:\(more) Projects\sounrealbrah\MoreFunWithBallz\Intermediate\Build\Win64\x64\UnrealEditor\Development\MoreFunWithBallz\MyActorYA.gen.cpp.obj"
+"D:\(more) Projects\sounrealbrah\MoreFunWithBallz\Intermediate\Build\Win64\x64\UnrealEditor\Development\MoreFunWithBallz\RealCameraDirector.gen.cpp.obj"
+"D:\(more) Projects\sounrealbrah\MoreFunWithBallz\Intermediate\Build\Win64\x64\UnrealEditor\Development\MoreFunWithBallz\RealCameraDirector2.gen.cpp.obj"
+"D:\(more) Projects\sounrealbrah\MoreFunWithBallz\Intermediate\Build\Win64\x64\UnrealEditor\Development\MoreFunWithBallz\MoreFunWithBallz.cpp.obj"
+"D:\(more) Projects\sounrealbrah\MoreFunWithBallz\Intermediate\Build\Win64\x64\UnrealEditor\Development\MoreFunWithBallz\CameraDirector.cpp.obj"
+"D:\(more) Projects\sounrealbrah\MoreFunWithBallz\Intermediate\Build\Win64\x64\UnrealEditor\Development\MoreFunWithBallz\MyActorYA.cpp.obj"
+"D:\(more) Projects\sounrealbrah\MoreFunWithBallz\Intermediate\Build\Win64\x64\UnrealEditor\Development\MoreFunWithBallz\RealCameraDirector.cpp.obj"
+"D:\(more) Projects\sounrealbrah\MoreFunWithBallz\Intermediate\Build\Win64\x64\UnrealEditor\Development\MoreFunWithBallz\RealCameraDirector2.cpp.obj"
+"D:\(more) Projects\sounrealbrah\MoreFunWithBallz\Intermediate\Build\Win64\x64\UnrealEditor\Development\MoreFunWithBallz\Default.rc2.res"
+/OUT:"D:\(more) Projects\sounrealbrah\MoreFunWithBallz\Intermediate\Build\Win64\x64\UnrealEditor\Development\MoreFunWithBallz\UnrealEditor-MoreFunWithBallz.lib"

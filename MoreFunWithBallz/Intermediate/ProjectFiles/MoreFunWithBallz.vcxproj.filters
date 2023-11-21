@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MoreFunWithBallz.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MoreFunWithBallz.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MoreFunWithBallzEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MoreFunWithBallz">
+      <UniqueIdentifier>{C8F2D370-271E-3DFD-9195-79D1891C0578}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MoreFunWithBallz\MoreFunWithBallz.Build.cs">
+      <Filter>Source\MoreFunWithBallz</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MoreFunWithBallz\MoreFunWithBallz.cpp">
+      <Filter>Source\MoreFunWithBallz</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MoreFunWithBallz\MoreFunWithBallz.h">
+      <Filter>Source\MoreFunWithBallz</Filter>
+    </ClInclude>
+    <Filter Include="Source\MoreFunWithBallz\Classes">
+      <UniqueIdentifier>{73DEAE74-7E3D-3BE6-BF26-716AA2A61BD9}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MoreFunWithBallz\Classes\CameraDirector.h">
+      <Filter>Source\MoreFunWithBallz\Classes</Filter>
+    </ClInclude>
+    <Filter Include="Source\MoreFunWithBallz\Private">
+      <UniqueIdentifier>{529297C5-C2EC-397F-BA24-77E322C4C1DA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MoreFunWithBallz\Private\CameraDirector.cpp">
+      <Filter>Source\MoreFunWithBallz\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MoreFunWithBallz\Private\MyActorYA.cpp">
+      <Filter>Source\MoreFunWithBallz\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MoreFunWithBallz\Private\RealCameraDirector.cpp">
+      <Filter>Source\MoreFunWithBallz\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MoreFunWithBallz\Private\RealCameraDirector2.cpp">
+      <Filter>Source\MoreFunWithBallz\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\MoreFunWithBallz\Public">
+      <UniqueIdentifier>{0443E7A5-1A77-3A8F-BA56-D24B0870D914}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MoreFunWithBallz\Public\MyActorYA.h">
+      <Filter>Source\MoreFunWithBallz\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MoreFunWithBallz\Public\RealCameraDirector.h">
+      <Filter>Source\MoreFunWithBallz\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MoreFunWithBallz\Public\RealCameraDirector2.h">
+      <Filter>Source\MoreFunWithBallz\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

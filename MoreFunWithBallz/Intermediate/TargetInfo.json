@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MoreFunWithBallz",
+			"Path": "..\\Source\\MoreFunWithBallz.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MoreFunWithBallzEditor",
+			"Path": "..\\Source\\MoreFunWithBallzEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
